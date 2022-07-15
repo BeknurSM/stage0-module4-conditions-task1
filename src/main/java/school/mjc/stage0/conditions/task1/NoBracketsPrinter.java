@@ -8,5 +8,8 @@ public class NoBracketsPrinter {
         else if(false){
             System.out.println("I'm out of checking");
         }
+        else{
+            System.out.println("");
+        }
     }
 }

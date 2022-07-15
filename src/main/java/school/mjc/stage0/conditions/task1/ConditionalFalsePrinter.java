@@ -6,7 +6,7 @@ public class ConditionalFalsePrinter {
             System.out.println(false);
         }
         else{
-            System.out.println(true);
+            System.out.println(false);
         }
     }
 }
