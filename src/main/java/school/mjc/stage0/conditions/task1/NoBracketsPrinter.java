@@ -9,7 +9,7 @@ public class NoBracketsPrinter {
             System.out.println("I'm out of checking");
         }
         else{
-            System.out.println("");
+            System.out.print("");
         }
     }
 }
